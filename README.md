@@ -7,7 +7,6 @@ Terminologies
 User​ : An independent entity with access to its own journal. Data should not be shared between
 users.
 Journal​ : A text log containing multiple entries.
-
 Journal Entry​ : A piece for text accompanied by a timestamp
 
 Features required
